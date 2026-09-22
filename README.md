@@ -2,7 +2,7 @@
 
 `rancher-observability-check.sh` is a read-only diagnostic tool for SUSE Rancher Support. It detects and validates both Rancher Monitoring V2 and the Rancher 2.15+ decoupled monitoring architecture.
 
-By default, the script prints only the detected architecture, warnings, failures, and a final summary. Support can use `--all` to print every successful check.
+By default, the script prints only the detected architecture, warnings, failures, and a final summary. It can be used with `--all` to print every successful check.
 
 ## Why?
 
